@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "705cc4fd-7db5-3553-afa0-82defbc45fc7",
+    "name": "MrOmap",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
