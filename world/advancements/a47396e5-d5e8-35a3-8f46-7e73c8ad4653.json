@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2022-09-17 23:59:55 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutsifter": {
     "criteria": {
       "has_items": "2022-09-13 20:45:49 +0200"
@@ -1921,6 +1927,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutminerstone": {
+    "criteria": {
+      "has_items": "2022-09-17 21:43:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-09-14 12:05:12 +0200"
@@ -1994,6 +2006,8 @@
       "tool_binding": "2022-09-14 22:52:55 +0200",
       "pick_head": "2022-09-14 22:44:04 +0200",
       "broad_axe_head": "2022-09-17 15:38:14 +0200",
+      "repair_kit": "2022-09-18 00:11:31 +0200",
+      "hammer_head": "2022-09-17 23:56:26 +0200",
       "tool_handle": "2022-09-14 22:53:12 +0200",
       "broad_blade": "2022-09-14 23:47:39 +0200",
       "ingot": "2022-09-14 23:57:08 +0200"
@@ -3596,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-09-18 00:22:55 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2022-09-13 21:46:52 +0200"
@@ -3677,6 +3697,12 @@
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2022-09-16 12:21:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stove": {
+    "criteria": {
+      "has_campfire": "2022-09-18 00:34:19 +0200"
     },
     "done": true
   },
@@ -4694,6 +4720,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_stairs_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2022-09-16 12:08:11 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/banner_rally_guards": {
+    "criteria": {
+      "has_items": "2022-09-18 00:21:14 +0200"
     },
     "done": true
   },
@@ -6863,6 +6895,7 @@
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "broad_axe": "2022-09-17 15:41:09 +0200",
+      "sledge_hammer": "2022-09-17 23:57:55 +0200",
       "cleaver": "2022-09-16 20:05:42 +0200"
     },
     "done": false
