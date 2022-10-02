@@ -1,28 +1,40 @@
-[18Sep2022 00:00:02.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18Sep2022 00:00:20.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
-[18Sep2022 00:00:41.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18Sep2022 00:00:43.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrOmap: Set the weather to clear]
-[18Sep2022 00:00:58.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[18Sep2022 00:05:53.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrOmap: Set the weather to clear]
-[18Sep2022 00:08:52.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrOmap: Set the time to 1000]
-[18Sep2022 00:09:02.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity EntityCitizen['Collins B. Hampden'/13284, l='ServerWorld minecraft:overworld world', x=73.50, y=64.00, z=321.50, removed=DISCARDED]
-[18Sep2022 00:09:18.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[18Sep2022 00:10:02.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18Sep2022 00:11:05.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MrOmap: Set the weather to clear]
-[18Sep2022 00:11:31.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18Sep2022 00:12:08.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18Sep2022 00:13:47.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18Sep2022 00:14:10.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18Sep2022 00:17:04.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18Sep2022 00:18:01.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18Sep2022 00:20:05.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[18Sep2022 00:20:24.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18Sep2022 00:21:14.158] [Server thread/INFO] [minecolonies/]: Colony 2 - removed AbstractBuilding BlockPos{x=84, y=62, z=283} of type guardtower
-[18Sep2022 00:21:14.159] [Server thread/INFO] [minecolonies.requestsystem.2/]: Removing provider: StandardToken{id=26d0eb7b-2e59-49f8-9079-105d9bff57e7}
-[18Sep2022 00:25:14.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[18Sep2022 00:26:01.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrOmap lost connection: Disconnected
-[18Sep2022 00:26:01.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrOmap left the game
-[18Sep2022 01:03:05.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18Sep2022 01:08:08.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KiritosDesu lost connection: Disconnected
-[18Sep2022 01:08:08.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KiritosDesu left the game
-[18Sep2022 07:30:05.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[02Oct2022 17:30:07.232] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[02Oct2022 17:30:12.876] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[02Oct2022 21:02:24.688] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[02Oct2022 21:02:24.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Stopping the server]
+[02Oct2022 21:02:24.807] [RCON Client /127.0.0.1 #5/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[02Oct2022 21:02:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Oct2022 21:02:25.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Oct2022 21:02:25.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Oct2022 21:02:29.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld world'/minecraft:overworld
+[02Oct2022 21:02:31.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 world'/immersive_portals:alternate2
+[02Oct2022 21:02:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 world'/immersive_portals:alternate3
+[02Oct2022 21:02:31.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld blue_skies:everdawn world'/blue_skies:everdawn
+[02Oct2022 21:02:31.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end world'/minecraft:the_end
+[02Oct2022 21:02:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 world'/immersive_portals:alternate5
+[02Oct2022 21:02:31.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether world'/minecraft:the_nether
+[02Oct2022 21:02:31.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 world'/immersive_portals:alternate1
+[02Oct2022 21:02:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld blue_skies:everbright world'/blue_skies:everbright
+[02Oct2022 21:02:31.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 world'/immersive_portals:alternate4
+[02Oct2022 21:02:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
+[02Oct2022 21:02:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Oct2022 21:02:32.407] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped
+[02Oct2022 21:02:32.412] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Uncaught exception in server thread
+java.lang.NullPointerException: Cannot invoke "net.minecraft.server.MinecraftServer.m_129785_()" because the return value of "qouteall.q_misc_util.MiscHelper.getServer()" is null
+	at qouteall.imm_ptl.core.portal.global_portals.GlobalPortalStorage.lambda$init$2(GlobalPortalStorage.java:65) ~[immersive-portals-1.4.10-mc1.18.2-forge.jar%2354!/:1.4.10]
+	at qouteall.q_misc_util.my_util.Signal.lambda$emit$0(Signal.java:18) ~[immersive-portals-1.4.10-mc1.18.2-forge.jar%2354!/:1.4.10]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at qouteall.q_misc_util.my_util.Signal.emit(Signal.java:18) ~[immersive-portals-1.4.10-mc1.18.2-forge.jar%2354!/:1.4.10]
+	at net.minecraft.server.MinecraftServer.handler$zdi000$onServerClose(MinecraftServer.java:2462) ~[server-1.18.2-20220404.173914-srg.jar%2375!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:731) ~[server-1.18.2-20220404.173914-srg.jar%2375!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%2375!/:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
